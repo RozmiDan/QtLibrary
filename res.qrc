@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/png-clipart-bookcase-shelf-graphy-wall-globe-bookshelf-miscellaneous-furniture.png</file>
+        <file>resources/pngegg (1).png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Fonts/KompaktLt.ttf</file>
+        <file>Fonts/ofont.ru_Raydis.ttf</file>
+        <file>Fonts/ofont.ru_Plovdiv.ttf</file>
+    </qresource>
+</RCC>
